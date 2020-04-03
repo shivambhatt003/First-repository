@@ -1,1 +1,1 @@
-utility function of software two
+utility function of software two (and its updated in git)
